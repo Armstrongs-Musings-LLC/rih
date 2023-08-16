@@ -1,6 +1,6 @@
-# 👹 Unofficial Reign in Hell Tauri App 👑
+# 👹 Unofficial Reign in Hell SvelteKit App 👑
 
-Welcome to the unofficial Tauri app for the tabletop game **Reign in Hell**! This community-driven application is designed to enhance your experience while playing Reign in Hell by providing a digital toolset to assist you in adopting and enjoying the game to its fullest.
+Welcome to the unofficial SvelteKit app for the tabletop game **Reign in Hell**! This community-driven application is designed to enhance your experience while playing Reign in Hell by providing a digital toolset to assist you in adopting and enjoying the game to its fullest.
 
 ## About Reign in Hell 🎲
 
@@ -16,9 +16,9 @@ Welcome to the unofficial Tauri app for the tabletop game **Reign in Hell**! Thi
 
 For more information about the Reign in Hell tabletop game, visit the official website: [Reign in Hell Official Website](https://www.snarlingbadger.com/reigninhell)
 
-## Tauri App Feature Goals 📱
+## SvelteKit App Feature Goals 📱
 
-Our Tauri app aims to provide an interactive and informative platform to assist players in adopting and playing the Reign in Hell tabletop game. The app offers:
+Our SvelteKit app aims to provide an interactive and informative platform to assist players in adopting and playing the Reign in Hell tabletop game. The app offers:
 
 - **Rulebook Access**: Access a comprehensive compilation of rules, interactions, and gameplay mechanics of Reign in Hell, providing quick and easy reference during your games.
 
@@ -30,7 +30,7 @@ Our Tauri app aims to provide an interactive and informative platform to assist 
 
 ## Getting Started 🚀
 
-To begin using the Unofficial Reign in Hell Tauri app, follow these simple steps:
+To begin using the Unofficial Reign in Hell SvelteKit app, follow these simple steps:
 
 1. **Installation**: Download the app from the [community repository](https://github.com/Armstrongs-Musings-LLC/rih) and install it on your device.
 
