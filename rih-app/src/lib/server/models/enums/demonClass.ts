@@ -1,5 +1,5 @@
 export enum DemonClass {
-    None = 0,
+    None,
     LesserDemons,
     GreaterDemons,
     SuperiorDemons,

@@ -2,5 +2,5 @@
   "workbench.settings.editor": "json",
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "svelte.svelte-vscode"
 }

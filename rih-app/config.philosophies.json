@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "philosophy": {
+      "name": "Lords of Hell",
+      "description": "Fighting to restore Hell`s glory and old ways.",
+      "quote": "It is better to reign in Hell than... well, it`s better than everything, frankly.",
+      "devout": 1,
+      "iconography": "Castle tower, mountain, triangles, crowns",
+      "beliefs": "beliefsLordsOfHell.txt"
+    }
+  },
+  {
+    "id": 2,
+    "philosophy": {
+      "name": "Earth-Bound",
+      "description": "Looking to escape hell permanently for Earth.",
+      "quote": "Hell is over. We must get back to where the real souls are back to Earth!",
+      "devout": 2,
+      "iconography": "Globes, skeletons, doors",
+      "beliefs": "beliefsEarthBound.txt"
+    }
+  },
+  {
+    "id": 3,
+    "philosophy": {
+      "name": "Demented",
+      "description": "Choosing to embrace the madness of Hell.",
+      "quote": "Those who seek after order in this madness are the truly insane.",
+      "devout": 3,
+      "iconography": "Ramshackle clothing and armor (the demented have no official common iconography).",
+      "beliefs": "beliefsDemented.txt"
+    }
+  },
+  {
+    "id": 4,
+    "philosophy": {
+      "name": "Brokers",
+      "description": "Trading and dealing the currency of souls.",
+      "quote": "Everything is for sale, if you have the souls to pay.",
+      "devout": 4,
+      "iconography": "Scales, gold coins, jewels",
+      "beliefs": "beliefsBrokers.txt"
+    }
+  },
+  {
+    "id": 5,
+    "philosophy": {
+      "name": "Judges",
+      "description": "Using and abusing the remaining rules of power.",
+      "quote": "How could anyone else hope to win when they don`t evenknow the rules?",
+      "devout": 5,
+      "iconography": "Keys, hammers, scrolls",
+      "beliefs": "beliefsJudges.txt"
+    }
+  },
+  {
+    "id": 6,
+    "philosophy": {
+      "name": "The Empty",
+      "description": "Wanting to see Hell destroyed and unmade.",
+      "quote": "Hell has no more purpose, there is only one sensible outcome - oblivion.",
+      "devout": 6,
+      "iconography": "Fire, weapons, lightning",
+      "beliefs": "beliefsTheEmpty.txt"
+    }
+  }
+]

@@ -1,4 +1,4 @@
 export enum DefaultRules {
-    No = 0,
+    No,
     Yes,
 }

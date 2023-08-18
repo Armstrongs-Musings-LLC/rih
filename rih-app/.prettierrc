@@ -10,6 +10,7 @@
   "svelteSortOrder": "scripts-markup-styles",
   "svelteStrictMode": false,
   "svelteBracketNewLine": true,
+  "plugins": ["prettier-plugin-svelte"],
   "overrides": [
     {
       "files": "*.json",
